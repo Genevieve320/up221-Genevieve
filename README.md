@@ -9,5 +9,5 @@ Here is a photo of my cat Angel!
 # Course Despcription
 UP 221 is an introduction to spatial data science. The objective of the course is to "critically describe, analyze, and visualize spatial data for planning practices and research".
 
-#Project Ideas and Objectives
+# Project Ideas and Objectives
 In this course, I want to learn how to be comfortable with software like Python in order to work with transportation and climate change related spatial data science. A possible project idea is to analyze bus routes and plan more efficient bus lanes in Los Angeles.
